@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
     int a,b,c;
-    cout<<"Enter the value of a"<<endl;
+    cout<<"Enter value of a"<<endl;
     cin>>a;
-    cout<<"Enter the value of b";
+    cout<<"Enter value of b";
     cin>>b;
     //Values before exchanging
     c=a;
